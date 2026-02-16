@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color:mediumpurple;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: #0a53be;
+    text-decoration: underline;
+}
+p{
+    color:orangered;
+    background-color: aqua;
+    border-radius: 20px;
+}
+ form{
+            background-color:navajowhite;
+            color:rebeccapurple;
+            padding:55px;
+            width:400px;
+            border-radius:5px;
+     text-align:center;
+        }
+ h4{
+     text-align: center;
+     color:blue;
+     text-decoration: underline;
+ }
+table{
+            width: 100%;
+            background-color: darkcyan;
+            border-collapse: collapse;
+        }
+        th{
+            border:8px solid white;
+            padding: 15px;
+            text-align: center;
+            background-color: darkslategrey;
+            color: white;
+        }
+       td{
+            border:8px solid white;
+            padding: 15px;
+        }
+
+
